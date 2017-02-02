@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 echo "testing git"
-
+echo "testing web changes"
 manuallist=[1,2,3,4,5]
 autolist=[x for x in range(10)]
 print('manualist is',manuallist)
