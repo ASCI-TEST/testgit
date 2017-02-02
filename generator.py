@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+echo "testing git"
 
 manuallist=[1,2,3,4,5]
 autolist=[x for x in range(10)]
