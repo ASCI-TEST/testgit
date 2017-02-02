@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-echo "testing git"
-echo "testing web changes"
+echo "testing git"#That updated a new commit on web by git add filename git commit git push origin master
+echo "testing web changes"#Modified file on web.commited and we can download by git pull origin master
 manuallist=[1,2,3,4,5]
 autolist=[x for x in range(10)]
 print('manualist is',manuallist)
